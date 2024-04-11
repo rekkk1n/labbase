@@ -6,7 +6,7 @@
 1. [Лаборатория криминалистического исследования документов](https://rekkk1n.github.io/criminologylab/)
 2. [Лаборатория судебной фотографии и судебной видеозаписи](https://rekkk1n.github.io/forensicphotographylab/)
 3. [Лаборатория трасологических исследований](https://rekkk1n.github.io/-traceologylab/)
-4. [Лаборатория инженерно-технических экспертиз]
+4. [Лаборатория инженерно-технических экспертиз](https://rekkk1n.github.io/testinglab/)
 5. [Виртуальный проекционнный комплекс](https://rekkk1n.github.io/VR/)
 6. [Криминалистический полигон](https://rekkk1n.github.io/UIGPSforensicpolygons/)
 7. [Учебная аудитория 340 (кабинет криминалистики)](https://rekkk1n.github.io/cabinet/)
